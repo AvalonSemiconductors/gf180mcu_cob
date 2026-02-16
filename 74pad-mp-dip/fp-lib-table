@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "COBFootprints")(type "KiCad")(uri "/media/veracrypt1/gf180mcu_cob/COBFootprints.pretty")(options "")(descr ""))
+)
